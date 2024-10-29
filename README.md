@@ -1,5 +1,5 @@
 **Clone the Repository**
-open directory deliverymgm and frontend in terminals (use two diffrent terminals
+open directory deliverymgm and frontend in terminals (use two diffrent terminals)
 # Django Project Setup Guide
 
 ## Prerequisites
